@@ -1,0 +1,24 @@
+body {
+  background-image: url(../images/crystalbackground.png);
+}
+
+.container {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  opacity: .85;
+}
+
+h1 {
+  font-size: 70px;
+  padding: 5px;
+}
+
+p {
+  font-family: 'Sawarabi Mincho', sans-serif;
+  font-size: 25px;
+}
+
+img {
+  width: 160px;
+  height: 160px;
+}
